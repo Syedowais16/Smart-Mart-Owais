@@ -1,0 +1,3 @@
+Electronics,split ac,70000
+Groceries,Eggs,100
+electronics,juicer,4500.0

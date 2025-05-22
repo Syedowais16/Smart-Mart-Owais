@@ -1,0 +1,30 @@
+1200.00
+810.00
+100.00
+0.00
+70000.00
+--- Bill @ 2025-05-22 16:01:49 ---
+split ac x 2 = Rs. 140000.00
+Payment Method: Cash
+Total: Rs. 140000.00
+
+--- Bill @ 2025-05-22 16:02:28 ---
+Eggs x 12 = Rs. 1200.00
+Payment Method: Cash
+Total: Rs. 1200.00
+
+--- Bill @ 2025-05-22 16:14:53 ---
+Eggs x 12 = Rs. 1200.00
+Payment Method: Card
+Total: Rs. 1080.00
+
+--- Bill @ 2025-05-22 16:15:51 ---
+Eggs x 10 = Rs. 1000.00
+Payment Method: Card
+Total: Rs. 900.00
+
+--- Bill @ 2025-05-22 16:56:18 ---
+Eggs x 12 = Rs. 1200.00
+Payment Method: Cash
+Total: Rs. 1200.00
+
